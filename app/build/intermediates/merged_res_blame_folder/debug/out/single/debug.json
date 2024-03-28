@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\mipmap-xxhdpi_default_icon.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\mipmap-xxhdpi\\default_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-pngs-4:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\drawable_user_name_icon.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\drawable\\user_name_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\drawable_xuanbg.xml.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\drawable\\xuanbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\layout_activity_add.xml.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\layout_activity_xuesheng.xml.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\layout\\activity_xuesheng.xml"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\drawable_background2.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\drawable\\background2.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\mipmap-xxhdpi_login_bg.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\mipmap-xxhdpi\\login_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-pngs-4:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\layout_activity_daohang.xml.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\layout\\activity_daohang.xml"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-pngs-4:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-pngs-4:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\drawable_background.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\drawable_ic_login.xml.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\drawable\\ic_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\drawable_ic_denglu.xml.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\drawable\\ic_denglu.xml"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\drawable_bg1.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\drawable\\bg1.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\drawable_psw_icon.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\drawable\\psw_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\mipmap-mdpi_icon_back_black.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\mipmap-mdpi\\icon_back_black.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\layout_item_timu.xml.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\layout\\item_timu.xml"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-pngs-4:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.datiqiapp-merged_res-8:/layout_activity_daohang.xml.flat",
+        "source": "com.example.datiqiapp-main-10:/layout/activity_daohang.xml"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-pngs-4:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-pngs-4:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\layout_activity_denglu.xml.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\layout\\activity_denglu.xml"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\layout_activity_timu.xml.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-main-10:\\layout\\activity_timu.xml"
+    },
+    {
+        "merged": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-merged_res-8:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\86183\\.gradle\\daemon\\8.2\\com.example.datiqiapp-pngs-4:\\drawable-xhdpi\\ic_launcher_background.png"
+    }
+]

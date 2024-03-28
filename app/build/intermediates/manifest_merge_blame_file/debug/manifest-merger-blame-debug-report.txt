@@ -1,0 +1,70 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.datiqiapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="30" />
+10
+11    <application
+11-->C:\dati\dati\app\src\main\AndroidManifest.xml:4:5-27:19
+12        android:allowBackup="true"
+12-->C:\dati\dati\app\src\main\AndroidManifest.xml:5:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] C:\Users\86183\.gradle\caches\transforms-3\dc47bdbbe01f0558e196fd5981401579\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="true"
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\dati\dati\app\src\main\AndroidManifest.xml:6:9-43
+17        android:label="@string/app_name"
+17-->C:\dati\dati\app\src\main\AndroidManifest.xml:7:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->C:\dati\dati\app\src\main\AndroidManifest.xml:8:9-54
+19        android:supportsRtl="true"
+19-->C:\dati\dati\app\src\main\AndroidManifest.xml:9:9-35
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->C:\dati\dati\app\src\main\AndroidManifest.xml:10:9-40
+22        <activity android:name="com.example.datiqiapp.UI.LianxiActivity" />
+22-->C:\dati\dati\app\src\main\AndroidManifest.xml:11:9-64
+22-->C:\dati\dati\app\src\main\AndroidManifest.xml:11:19-52
+23        <activity android:name="com.example.datiqiapp.UI.DaohangActivity" >
+23-->C:\dati\dati\app\src\main\AndroidManifest.xml:12:9-18:20
+23-->C:\dati\dati\app\src\main\AndroidManifest.xml:12:19-53
+24            <intent-filter>
+24-->C:\dati\dati\app\src\main\AndroidManifest.xml:13:13-17:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\dati\dati\app\src\main\AndroidManifest.xml:14:17-69
+25-->C:\dati\dati\app\src\main\AndroidManifest.xml:14:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\dati\dati\app\src\main\AndroidManifest.xml:16:17-77
+27-->C:\dati\dati\app\src\main\AndroidManifest.xml:16:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity android:name="com.example.datiqiapp.UI.ShijuanActivity" />
+30-->C:\dati\dati\app\src\main\AndroidManifest.xml:19:9-56
+30-->C:\dati\dati\app\src\main\AndroidManifest.xml:19:19-53
+31        <activity android:name="com.example.datiqiapp.UI.XueshengActivity" />
+31-->C:\dati\dati\app\src\main\AndroidManifest.xml:20:9-57
+31-->C:\dati\dati\app\src\main\AndroidManifest.xml:20:19-54
+32        <activity android:name="com.example.datiqiapp.UI.ChengjiActivity" />
+32-->C:\dati\dati\app\src\main\AndroidManifest.xml:21:9-56
+32-->C:\dati\dati\app\src\main\AndroidManifest.xml:21:19-53
+33        <activity android:name="com.example.datiqiapp.UI.TimuActivity" />
+33-->C:\dati\dati\app\src\main\AndroidManifest.xml:22:9-53
+33-->C:\dati\dati\app\src\main\AndroidManifest.xml:22:19-50
+34        <activity android:name="com.example.datiqiapp.UI.AddActivity" />
+34-->C:\dati\dati\app\src\main\AndroidManifest.xml:23:9-52
+34-->C:\dati\dati\app\src\main\AndroidManifest.xml:23:19-49
+35        <activity android:name="com.example.datiqiapp.UI.DengluActivity" />
+35-->C:\dati\dati\app\src\main\AndroidManifest.xml:24:9-54
+35-->C:\dati\dati\app\src\main\AndroidManifest.xml:24:19-52
+36        <activity android:name="com.example.datiqiapp.UI.MainActivity" />
+36-->C:\dati\dati\app\src\main\AndroidManifest.xml:25:9-53
+36-->C:\dati\dati\app\src\main\AndroidManifest.xml:25:19-50
+37    </application>
+38
+39</manifest>
